@@ -12,7 +12,8 @@ Start up the `wikidpad` env
 - In CMD navigate to `C:/Users/natdm/Documents/Programming/venvs/wikidpad/Scripts`
 - call `activate` to start the venv
 - navigate to `C:/Users/natdm/Documents/Programming/tsv-to-wikidpad`
-- run `python convert_tsv <path to file> (to_wiki|from_wiki) <wrap width (default is 15)>`
+- run `python convert_tsv.py <path to file> (to_wiki|from_wiki) <wrap width (default is 15)>`
+- open the output file and copy paste contents into the wiki
 """
 
 
